@@ -3,6 +3,8 @@ This small library demonstrates a system capable of operating as a dynamic rules
 
 You can read more in my accompanying [blog post](https://medium.com/@jgefroh/how-to-design-software-rules-engines-adbb098b2d73).
 
+Check out `src/example/example.rb`.
+
 ## What is a rules engine?
 A rules engine is simply a set of rules that are applied to something.
 
